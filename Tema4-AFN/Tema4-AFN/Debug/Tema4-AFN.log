@@ -1,0 +1,21 @@
+﻿  AFN.cpp
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(55,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(63,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(72,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(91,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(150,20): warning C4018: '<': signed/unsigned mismatch
+  Tema4-AFN.cpp
+  Generating Code...
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(191): warning C4172: returning address of local variable or temporary
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(185): warning C4715: 'AFN::verificaCuvantul': not all control paths return a value
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(170): warning C4172: returning address of local variable or temporary
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(181): warning C4172: returning address of local variable or temporary
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(184): warning C4172: returning address of local variable or temporary
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(198): warning C4172: returning address of local variable or temporary
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(205): warning C4172: returning address of local variable or temporary
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(207): warning C4172: returning address of local variable or temporary
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(211): warning C4172: returning address of local variable or temporary
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(214): warning C4172: returning address of local variable or temporary
+C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Tema4-AFN\AFN.cpp(231): warning C4172: returning address of local variable or temporary
+  Tema4-AFN.vcxproj -> C:\Users\stefa.STEFAN\Desktop\Tema4-AFN\Debug\Tema4-AFN.exe
