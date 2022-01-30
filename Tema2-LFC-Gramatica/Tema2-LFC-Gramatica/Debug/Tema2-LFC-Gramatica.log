@@ -1,0 +1,16 @@
+﻿  Gramatica.cpp
+C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Tema2-LFC-Gramatica\Gramatica.h(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Tema2-LFC-Gramatica\Gramatica.h(41,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Tema2-LFC-Gramatica\Gramatica.h(67,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Tema2-LFC-Gramatica\Gramatica.h(74,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Tema2-LFC-Gramatica\Gramatica.h(82,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Tema2-LFC-Gramatica\Gramatica.cpp(252,16): warning C4018: '<': signed/unsigned mismatch
+  Productie.cpp
+  Tema2-LFC-Gramatica.cpp
+C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Tema2-LFC-Gramatica\Gramatica.h(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Tema2-LFC-Gramatica\Gramatica.h(41,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Tema2-LFC-Gramatica\Gramatica.h(67,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Tema2-LFC-Gramatica\Gramatica.h(74,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Tema2-LFC-Gramatica\Gramatica.h(82,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Tema2-LFC-Gramatica.vcxproj -> C:\Users\stefa\source\repos\Tema2-LFC-Gramatica\Debug\Tema2-LFC-Gramatica.exe
