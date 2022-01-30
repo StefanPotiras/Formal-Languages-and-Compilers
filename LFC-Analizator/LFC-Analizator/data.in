@@ -1,0 +1,10 @@
+int main(){
+int x,y,min="da";
+contor10=3;
+x =-321312.4E-3;
+y =4 ;
+if (x<y)
+min =x;
+else
+min =y;
+}
