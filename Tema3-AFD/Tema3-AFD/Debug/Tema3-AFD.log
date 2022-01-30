@@ -1,0 +1,14 @@
+﻿  AFD.cpp
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(5,6): warning C4101: 'number': unreferenced local variable
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(46,7): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(54,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(63,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(77,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(92,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(118): warning C4715: 'AFD::verificaCuvantul': not all control paths return a value
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(162): warning C4172: returning address of local variable or temporary
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(103): warning C4172: returning address of local variable or temporary
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(114): warning C4172: returning address of local variable or temporary
+C:\Users\stefa\source\repos\Tema3-AFD\Tema3-AFD\AFD.cpp(117): warning C4172: returning address of local variable or temporary
+  Tema3-AFD.vcxproj -> C:\Users\stefa\source\repos\Tema3-AFD\Debug\Tema3-AFD.exe
